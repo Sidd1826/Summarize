@@ -25,5 +25,6 @@ function Header() {
     </header>
   )
 }
+// exporting header
 
 export default Header
